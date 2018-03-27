@@ -78,7 +78,7 @@ function create_config( )
 		"write",
 		"addkick"	
 	},
-    sudo_users = {267785153},
+    sudo_users = {256331224},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
